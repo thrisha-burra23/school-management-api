@@ -50,7 +50,7 @@ It allows:
 ```json
 {
   "message": "Schools fetched successfully!",
-  "count": 3,
+  "count": 5,
   "schools": [
     {
       "id": 1,
